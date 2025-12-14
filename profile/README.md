@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 [Future Gadget Labs, Collections, and Investments]
+# 📊 Future Gadget Labs, Collections, and Investments
 
 **Collection Tracking • Investment Analysis • Portfolio Journaling**
 
