@@ -2,6 +2,8 @@
 
 # 📊 Future Gadget Labs, Collections, and Investments
 
+[LINK](https://futuregadgetcollections.github.io/)
+
 **Collection Tracking • Investment Analysis • Portfolio Journaling**
 
 An open-source hub tracking the journey of asset collection, market analysis, and long-term hold strategies.
